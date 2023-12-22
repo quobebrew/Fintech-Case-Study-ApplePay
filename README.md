@@ -21,4 +21,9 @@ Contributors: *Antonio Papatzikos, Alfred A-Brew, Josue Vega*
 
 ### ApplePay Case Study Report
 1.Apple Pay, developed by Apple Inc., is a mobile payment and digital wallet service. It enables users to make payments using Apple devices like iPhones and iPads, providing a secure and convenient way to handle transactions. Competitors consist of the following: Google pay and Samsung Pay.
-2. Apple Pay utilizes **(NFC)** and tokenization for secure transactions.
+
+2. Apple Pay utilizes **(NFC)** and tokenization for secure transactions. They are considered FinTech compannies because they leveraging financial services to strengthen relationship with users.
+
+3. Apple Pay has robust security measures such as EMV. Strengths wide accepetance at merchants and Weaknesses are only for  apple users.
+
+4. THey will keep inovating and securing the systems. Market share
