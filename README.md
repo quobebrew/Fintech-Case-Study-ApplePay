@@ -20,3 +20,5 @@ Collaboration activity
 Contributors: *Antonio Papatzikos, Alfred A-Brew, Josue Vega*
 
 ### ApplePay Case Study Report
+1.Apple Pay, developed by Apple Inc., is a mobile payment and digital wallet service. It enables users to make payments using Apple devices like iPhones and iPads, providing a secure and convenient way to handle transactions. Competitors consist of the following: Google pay and Samsung Pay.
+2. Apple Pay utilizes **(NFC)** and tokenization for secure transactions.
